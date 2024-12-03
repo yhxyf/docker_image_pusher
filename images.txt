@@ -6,7 +6,7 @@ yidadaa/chatgpt-next-web:latest
 phpmyadmin/phpmyadmin
 lobehub/lobe-chat
 mysql:5.7
-ozyme/sockd
+lozyme/sockd
 ghcr.io/yangchuansheng/derper
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
