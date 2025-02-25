@@ -6,7 +6,7 @@ yidadaa/chatgpt-next-web:latest
 phpmyadmin/phpmyadmin
 lobehub/lobe-chat
 mysql:5.7
-alpine:latest
+alpine
 lozyme/sockd
 ubuntu/squid
 ghcr.io/yangchuansheng/derper
